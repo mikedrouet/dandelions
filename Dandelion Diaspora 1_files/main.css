@@ -1,0 +1,52 @@
+/* CSS Document */
+
+body 
+{
+  margin: 0px 0px 0px 0px;
+  font-family: Verdana, Geneva, sans-serif; 
+  font-size: 16px; 
+  background-color: #FFF; 
+  text-decoration: none; 
+  font-weight: normal; 
+  line-height: normal;
+}
+
+#container {
+	width: 960px;
+    /*border: solid 1px;*/
+    margin-left: auto;
+  	margin-right: auto;
+}
+
+
+#header {
+    color: black;
+    padding: 5px 5px 0px 5px;
+    margin-top:10px;
+    margin-bottom:10px; 
+    border-bottom:solid 2px black;
+    height: 230px;
+}
+
+#header_image {
+  position: relative;
+  float: left;
+  width: 300px;
+}
+
+#map1 {
+  width: 400px;
+}
+
+.town {
+  width: 40%;
+}
+
+
+/*
+#footer {
+  clear: both;
+  padding: 20px;
+  background: #CCC; 
+}
+*/
